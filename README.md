@@ -143,7 +143,7 @@ LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 
 ![](https://komarev.com/ghpvc/?username=YeeDaniel&color=brightgreen&style=plastic&label=Profile+Views)
 
 <div>
-  <img height="150" src="https://github-readme-stats-ten-black-agchk7dduo.vercel.app/api?username=YeeDaniel&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats-ten-black-agchk7dduo.vercel.app/api?username=YeeDaniel&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" />
   <img height="150" src="https://github-readme-stats-ten-black-agchk7dduo.vercel.app/api/top-langs/?username=YeeDaniel&layout=compact&theme=radical&langs_count=8" />
 </div>
 
