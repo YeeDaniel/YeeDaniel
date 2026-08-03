@@ -85,24 +85,11 @@ fields_of_interests:
 
 `26 / 26 commits (100%) · 獨立開發`
 
-### 🧾 發票醫生 (E-Invoice Doctor)
+### 💼 Finctory 產品線 · 前端工程師
 
-分析使用者消費紀錄的財務健檢工具。Vue + Python，Docker 化部署。
-
-`387 / 822 commits (47%) · 6 人團隊中貢獻最多`
-
-### 🍱 SurPrice 找好康
-
-即期美食地圖 PWA，結合定位協助使用者掌握周邊商家的即期優惠，實踐惜食永續。
-Nuxt 3 + Firebase + Google Maps API。
-
-`60 / 75 commits (80%) · 主要開發者`
-
-### 🖨 印鏈 PrinterChain
-
-列印媒合平台，串接 EPSON OpenAPI，媒合閒置印表機與列印需求。Vue + Python。
-
-`55 / 84 commits (65%) · 主要開發者`
+- **發票醫生 (E-Invoice Doctor)** — 消費紀錄分析工具。Vue + Python
+- **SurPrice 找好康** — 即期美食地圖 PWA。Nuxt 3 + Firebase + Google Maps API
+- **印鏈 PrinterChain** — 列印媒合平台。Vue + Python
 
 ### 🌱 產品碳足跡計算機
 
@@ -111,9 +98,12 @@ Nuxt 4 + FastAPI + MongoDB。計算方法依 CFP-PCR 標準，每個排放係數
 
 `46 / 46 commits (100%) · 委託案，原始碼未公開`
 
-### 🏔 復興區永續環境學習網
+### 🏔 [桃園市復興區永續環境學習網](https://weather.ecusr.ncu.edu.tw/)
 
-USR 大學社會責任計畫，為桃園復興區開發的環境教育平台。真實客戶、真實交付。Vue。
+中央大學 mbhoyaw「復興」USR 計畫的環境監測平台，**已上線運行**。Vue。
+
+整合復興區多個觀測站的即時感測資料——氣象、雨量、水質濁度、地質防災、流星觀測——
+提供圖表化總覽、觀測站切換、歷史區間查詢與資料下載，並支援多語系。
 
 `82 / 323 commits · 6 人團隊 · 原始碼未公開`
 
