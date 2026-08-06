@@ -142,5 +142,3 @@ LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YeeDaniel/YeeDaniel/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YeeDaniel/YeeDaniel/output/github-snake.svg" />
 </picture>
-
-> 大部分的工作在 private repository（公司產品與委託案），公開的部分只是其中一小塊。
