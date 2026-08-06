@@ -37,6 +37,9 @@ fields_of_interests:
   [
     "Full-Stack Web (Nuxt / FastAPI)",
     "Local SEO & Structured Data",
+    "Data Visualization",
+    "FinTech",
+    "Applied LLM",
   ]
 ```
 
