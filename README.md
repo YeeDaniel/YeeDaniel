@@ -22,11 +22,11 @@ located_in: Taiwan
 education:
   [
     "Bachelor's in Information Management, National Central University (NCU) - 2022-2026",
-    "Master's, Institute of Information Management, NYCU (陽明交大 IIM) - 2026 incoming",
+    "Master's, Institute of Information Management, NYCU IIM - 2026 incoming",
   ]
 current:
   [
-    "Frontend Engineer - Finctory Co., Ltd. (斐闊有限公司) - 2024-present",
+    "Frontend Engineer - Finctory Co., Ltd. - 2024-present",
     "Network Administrator - College of Engineering, NCU - 2025-present",
   ]
 previously:
@@ -73,8 +73,6 @@ fields_of_interests:
 
 <h2>🚀 What I've Shipped</h2>
 
-不是課堂作業——這些是有真實使用者、上線在跑的東西。括號內為實際 commit 數。
-
 ### 🦢 [鵝邸家官方網站](https://github.com/YeeDaniel/goose) · [edijia.com](https://edijia.com)
 
 台中大甲燒鵝專賣店的官方網站，**已上線營運**。Nuxt 4 SSR + Cloudflare Pages。
@@ -87,16 +85,16 @@ fields_of_interests:
 
 ### 💼 Finctory 產品線 · 前端工程師
 
-- **發票醫生 (E-Invoice Doctor)** — 消費紀錄分析工具。Vue + Python
+- **發票醫生 (E-Invoice Doctor)** — 消費紀錄分析工具。Nuxt 3 + Python
 - **SurPrice 找好康** — 即期美食地圖 PWA。Nuxt 3 + Firebase + Google Maps API
-- **印鏈 PrinterChain** — 列印媒合平台。Vue + Python
+- **印鏈 PrinterChain** — 列印媒合平台。Nuxt 3 + Python
 
 ### 🌱 產品碳足跡計算機
 
-設定驅動（config-driven）的產品生命週期碳足跡試算系統——換產業只改資料、不改程式。
+設定驅動（config-driven）的產品生命週期碳足跡試算系統
 Nuxt 4 + FastAPI + MongoDB。計算方法依 CFP-PCR 標準，每個排放係數都標註環境部公告文號與查核狀態。
 
-`46 / 46 commits (100%) · 委託案，原始碼未公開`
+`46 / 46 commits (100%)`
 
 ### 🏔 [桃園市復興區永續環境學習網](https://weather.ecusr.ncu.edu.tw/)
 
@@ -105,7 +103,7 @@ Nuxt 4 + FastAPI + MongoDB。計算方法依 CFP-PCR 標準，每個排放係數
 整合復興區多個觀測站的即時感測資料——氣象、雨量、水質濁度、地質防災、流星觀測——
 提供圖表化總覽、觀測站切換、歷史區間查詢與資料下載，並支援多語系。
 
-`82 / 323 commits · 6 人團隊 · 原始碼未公開`
+`82 / 323 commits · 6 人團隊`
 
 ### 🎰 [LR 抽獎模擬器](https://github.com/YeeDaniel/lr-gear)
 
@@ -120,11 +118,11 @@ LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 
 
 ### [解答之牛 (Cow of Answer)](https://github.com/YeeDaniel/Cow-of-Answer) · 2024
 
-網頁程式設計期末專案，我的第一個協作開發經驗。Vue + Node.js。
+網頁程式設計期末專案，我的第一個協作開發經驗。Nuxt 3 + Node.js。
 
 `45 / 228 commits · 5 人團隊中第二多`
 
-> 從這個五人期末專案開始，兩年後獨立完成一個上線營運的商業網站。
+> 團體期末專案。
 
 ---
 
@@ -142,5 +140,3 @@ LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YeeDaniel/YeeDaniel/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YeeDaniel/YeeDaniel/output/github-snake.svg" />
 </picture>
-
-> 大部分的工作在 private repository（公司產品與委託案），公開的部分只是其中一小塊。
