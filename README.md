@@ -70,8 +70,6 @@ fields_of_interests:
 
 <h2>🚀 What I've Shipped</h2>
 
-不是課堂作業——這些是有真實使用者、上線在跑的東西。括號內為實際 commit 數。
-
 ### 🦢 [鵝邸家官方網站](https://github.com/YeeDaniel/goose) · [edijia.com](https://edijia.com)
 
 台中大甲燒鵝專賣店的官方網站，**已上線營運**。Nuxt 4 SSR + Cloudflare Pages。
@@ -81,7 +79,7 @@ fields_of_interests:
 店家資訊集中於單一設定檔，同時作為頁面內容與 schema 的來源。
 
 關鍵詞的選擇是這個專案最花心思的地方：在地搜尋以距離為主要排序因素，
-「台中燒鵝」由市區店家主導，正面競爭取不到能見度；
+「台中燒鵝」由市區店家主導，正面競爭取不到能見度，
 因此內容與結構化資料鎖定 `大甲鎮瀾宮商圈` / `臺中海線`——選擇打得到的範圍，而非最大的範圍。
 
 `26 / 26 commits (100%) · 獨立開發`
@@ -94,7 +92,7 @@ fields_of_interests:
 
 ### 🌱 產品碳足跡計算機
 
-設定驅動（config-driven）的產品生命週期碳足跡試算系統——換產業只改資料、不改程式。
+設定驅動（config-driven）的產品生命週期碳足跡試算系統
 Nuxt 4 + FastAPI + MongoDB。計算方法依 CFP-PCR 標準，每個排放係數都標註環境部公告文號與查核狀態。
 
 `46 / 46 commits (100%) · 委託案，原始碼未公開`
@@ -112,7 +110,7 @@ Nuxt 4 + FastAPI + MongoDB。計算方法依 CFP-PCR 標準，每個排放係數
 ### 🎰 [LR 抽獎模擬器](https://github.com/YeeDaniel/lr-gear)
 
 LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 制、逐隻機率、保底計算）。
-自建爬蟲抓取公開 API，資料來源與 robots.txt 授權狀況都記錄在 README。純娛樂的個人專案。
+自建爬蟲抓取公開 API，資料來源與 robots.txt 授權狀況都記錄在 README。
 
 `27 / 27 commits (100%)`
 
@@ -126,7 +124,7 @@ LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 
 
 `45 / 228 commits · 5 人團隊中第二多`
 
-> 從這個五人期末專案開始，兩年後獨立完成一個上線營運的商業網站。
+>團隊的期末專案
 
 ---
 
