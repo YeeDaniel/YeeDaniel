@@ -22,26 +22,21 @@ located_in: Taiwan
 education:
   [
     "Bachelor's in Information Management, National Central University (NCU) - 2022-2026",
-    "Master's, Institute of Information Management, NYCU IIM - 2026 incoming",
+    "Master's, Institute of Information Management, NYCU (陽明交大 IIM) - 2026 incoming",
   ]
 current:
   [
-    "Frontend Engineer - Finctory Co., Ltd. - 2024-present",
+    "Frontend Engineer - Finctory Co., Ltd. (斐闊有限公司) - 2024-present",
     "Network Administrator - College of Engineering, NCU - 2025-present",
   ]
 previously:
   [
-    "Frontend - 2024 NCU Fresh Web",
-    "Calculus Tutor - NCU - 2022-2024",
-    "Calculus Lecturer - Chung Yuan Christian University - 2022",
+    "Frontend - 2024 NCU Fresh Web - 2023-2024",
   ]
 fields_of_interests:
   [
     "Full-Stack Web (Nuxt / FastAPI)",
-    "Local SEO & O2O Conversion",
-    "FinTech",
-    "Applied LLM",
-    "Industry Trend Analysis",
+    "Local SEO & Structured Data",
   ]
 ```
 
@@ -73,28 +68,34 @@ fields_of_interests:
 
 <h2>🚀 What I've Shipped</h2>
 
+不是課堂作業——這些是有真實使用者、上線在跑的東西。括號內為實際 commit 數。
+
 ### 🦢 [鵝邸家官方網站](https://github.com/YeeDaniel/goose) · [edijia.com](https://edijia.com)
 
 台中大甲燒鵝專賣店的官方網站，**已上線營運**。Nuxt 4 SSR + Cloudflare Pages。
 
-整站只有一個轉換目標：導流到 LINE 官方帳號完成外帶預訂。最花心思的不是技術，是取捨——
-「台中燒鵝」的搜尋結果由市區店家主導（在地搜尋以距離為主要排序因素），正面競爭贏不了，
-所以文案與 JSON-LD 結構化資料改鎖 `大甲鎮瀾宮商圈` / `臺中海線`，打實際能排上的範圍。
+行動優先的六頁架構，承載品牌故事、數位菜單、宴席紀錄與媒體報導。
+全站以 JSON-LD 標註 Restaurant / MenuItem / OpeningHoursSpecification 結構化資料，
+店家資訊集中於單一設定檔，同時作為頁面內容與 schema 的來源。
+
+關鍵詞的選擇是這個專案最花心思的地方：在地搜尋以距離為主要排序因素，
+「台中燒鵝」由市區店家主導，正面競爭取不到能見度；
+因此內容與結構化資料鎖定 `大甲鎮瀾宮商圈` / `臺中海線`——選擇打得到的範圍，而非最大的範圍。
 
 `26 / 26 commits (100%) · 獨立開發`
 
 ### 💼 Finctory 產品線 · 前端工程師
 
-- **發票醫生 (E-Invoice Doctor)** — 消費紀錄分析工具。Nuxt 3 + Python
+- **發票醫生 (E-Invoice Doctor)** — 消費紀錄分析工具。Vue + Python
 - **SurPrice 找好康** — 即期美食地圖 PWA。Nuxt 3 + Firebase + Google Maps API
-- **印鏈 PrinterChain** — 列印媒合平台。Nuxt 3 + Python
+- **印鏈 PrinterChain** — 列印媒合平台。Vue + Python
 
 ### 🌱 產品碳足跡計算機
 
-設定驅動（config-driven）的產品生命週期碳足跡試算系統
+設定驅動（config-driven）的產品生命週期碳足跡試算系統——換產業只改資料、不改程式。
 Nuxt 4 + FastAPI + MongoDB。計算方法依 CFP-PCR 標準，每個排放係數都標註環境部公告文號與查核狀態。
 
-`46 / 46 commits (100%)`
+`46 / 46 commits (100%) · 委託案，原始碼未公開`
 
 ### 🏔 [桃園市復興區永續環境學習網](https://weather.ecusr.ncu.edu.tw/)
 
@@ -103,7 +104,7 @@ Nuxt 4 + FastAPI + MongoDB。計算方法依 CFP-PCR 標準，每個排放係數
 整合復興區多個觀測站的即時感測資料——氣象、雨量、水質濁度、地質防災、流星觀測——
 提供圖表化總覽、觀測站切換、歷史區間查詢與資料下載，並支援多語系。
 
-`82 / 323 commits · 6 人團隊`
+`82 / 323 commits · 6 人團隊 · 原始碼未公開`
 
 ### 🎰 [LR 抽獎模擬器](https://github.com/YeeDaniel/lr-gear)
 
@@ -118,11 +119,11 @@ LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 
 
 ### [解答之牛 (Cow of Answer)](https://github.com/YeeDaniel/Cow-of-Answer) · 2024
 
-網頁程式設計期末專案，我的第一個協作開發經驗。Nuxt 3 + Node.js。
+網頁程式設計期末專案，我的第一個協作開發經驗。Vue + Node.js。
 
 `45 / 228 commits · 5 人團隊中第二多`
 
-> 團體期末專案。
+> 從這個五人期末專案開始，兩年後獨立完成一個上線營運的商業網站。
 
 ---
 
@@ -140,3 +141,5 @@ LINE Rangers 角色與裝備抽獎模擬器，同步遊戲當期卡池（banner 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YeeDaniel/YeeDaniel/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YeeDaniel/YeeDaniel/output/github-snake.svg" />
 </picture>
+
+> 大部分的工作在 private repository（公司產品與委託案），公開的部分只是其中一小塊。
